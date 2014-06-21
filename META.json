@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/mudler/p5-Deeme-Backend-Mango/issues"
+      },
+      "homepage" : "https://github.com/mudler/p5-Deeme-Backend-Mango",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/mudler/p5-Deeme-Backend-Mango.git",
+         "web" : "https://github.com/mudler/p5-Deeme-Backend-Mango"
+      }
+   },
    "version" : "0.01"
 }
 

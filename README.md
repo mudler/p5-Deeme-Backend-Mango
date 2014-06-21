@@ -12,7 +12,7 @@ Deeme::Backend::Mango - MongoDB Backend using Mango for Deeme
 
 # DESCRIPTION
 
-Deeme::Backend::Mango is a MongoDB Deeme memory backend using Mango.
+Deeme::Backend::Mango is a MongoDB Deeme database backend using Mango.
 
 # AUTHOR
 

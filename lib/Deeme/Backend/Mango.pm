@@ -130,7 +130,7 @@ Deeme::Backend::Mango - MongoDB Backend using Mango for Deeme
 
 =head1 DESCRIPTION
 
-Deeme::Backend::Mango is a MongoDB Deeme memory backend using Mango.
+Deeme::Backend::Mango is a MongoDB Deeme database backend using Mango.
 
 =head1 AUTHOR
 
