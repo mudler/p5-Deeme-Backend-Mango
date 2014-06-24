@@ -1,6 +1,6 @@
 package Deeme::Backend::Mango;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 use Deeme::Obj 'Deeme::Backend';
 use Mango;
 use Deeme::Utils qw(_serialize _deserialize);
