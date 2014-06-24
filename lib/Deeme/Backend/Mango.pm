@@ -1,7 +1,7 @@
 package Deeme::Backend::Mango;
 
 our $VERSION = '0.01';
-use Mojo::Base 'Deeme::Backend';
+use Deeme::Obj 'Deeme::Backend';
 use Mango;
 use Deeme::Utils qw(_serialize _deserialize);
 use Carp 'croak';
