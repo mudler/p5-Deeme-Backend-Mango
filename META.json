@@ -27,7 +27,7 @@
       "configure" : {
          "requires" : {
             "Module::Build::Tiny" : "0.035",
-            "perl" : "5.008005"
+            "perl" : "5.006"
          }
       },
       "develop" : {
@@ -38,9 +38,9 @@
       "runtime" : {
          "requires" : {
             "Deeme" : "0",
+            "Deeme::Obj" : "0",
             "Deeme::Utils" : "0",
             "Mango" : "0",
-            "Mojo::Base" : "0",
             "feature" : "0"
          }
       },
@@ -64,6 +64,6 @@
          "web" : "https://github.com/mudler/p5-Deeme-Backend-Mango"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 
